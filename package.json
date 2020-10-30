@@ -1,0 +1,8 @@
+{
+  "name": "products-clients",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafael-emerick/products-clients.git",
+  "author": "rafael-emerick <rafaelemerick5@gmail.com>",
+  "license": "MIT"
+}
